@@ -22,7 +22,7 @@
 <!--             <img src="https://github-readme-stats.vercel.app/api?username=letssuhail&count_private=true&theme=radical&hide=contribs,prs" alt="GitHub Stats"> -->
         </div>
         <footer>
-            <p>Created with ❤️ by <a href="https://github.com/letssuhail" target="_blank">Suhail</a></p>
+            <p>Created with ❤️. by <a href="https://github.com/letssuhail" target="_blank">Suhail</a></p>
         </footer>
     </div>
 </body>
