@@ -6,7 +6,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Hi there, I'm Suhail 👋</h1>
+        <h1>Hi there, I'm Suhail 👋 </h1>
         <p>Welcome to my GitHub profile!</p>
         <div class="social-icons">
             <a href="https://www.linkedin.com/in/your_linkedin_handle" class="linkedin" aria-label="LinkedIn" target="_blank">
