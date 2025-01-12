@@ -18,7 +18,7 @@
         </div>
         <div class="stats">
             <h2>Contributions</h2>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=letssuhail&theme=radical" alt="GitHub Streak Stats">
+<!--             <img src="https://github-readme-streak-stats.herokuapp.com/?user=letssuhail&theme=radical" alt="GitHub Streak Stats"> -->
 <!--             <img src="https://github-readme-stats.vercel.app/api?username=letssuhail&count_private=true&theme=radical&hide=contribs,prs" alt="GitHub Stats"> -->
         </div>
         <footer>
