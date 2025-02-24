@@ -17,7 +17,4 @@
 ## 📊 GitHub Stats  
 ![Suhail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=letssuhail&show_icons=true&theme=dark)
 
----
-
-## 🔥 Fun Fact  
-🎯 "I turn coffee into code!" ☕🚀  
+---  
