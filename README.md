@@ -2,7 +2,7 @@
 
 🚀 **Flutter & Node.js Developer** | Passionate about building great apps!  
 
-💡 **Tech Enthusiast** | 📱 Mobile App Dev 
+💡 **Tech Enthusiast** || 📱 Mobile App Dev 
 
 ---
 
