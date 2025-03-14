@@ -12,9 +12,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/letssuhail)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:letssuhail@email.com)
 
----
-
-## 📊 GitHub Stats  
-![Suhail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=letssuhail&show_icons=true&theme=dark)
-
 ---  
